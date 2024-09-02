@@ -11,4 +11,9 @@ public class Controller {
 	public String welcome() {
 		return "welcome to demo";
 	}
+	
+	@GetMapping("/greeting")
+	public String greeting() {
+		return "greeting to demo";
+	}
 }
