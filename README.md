@@ -1,0 +1,1 @@
+https://portal.azure.com/#@joshanj924outlook.onmicrosoft.com/resource/subscriptions/943a9a8f-8b5b-497c-95f4-6163680bc89b/resourceGroups/KNIGHT/providers/Microsoft.Compute/virtualMachines/LINUXSERVER1/connect
